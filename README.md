@@ -1,3 +1,3 @@
-# Template materie facultate
+# Utilizarea sistemelor de operare
 
 ## Resurse
